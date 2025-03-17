@@ -25,7 +25,7 @@ class ProfilePage extends StatelessWidget {
             CircleAvatar(
               radius: 50,
               backgroundImage: AssetImage(
-                  '../assets/images/me.jpg'), // Ganti dengan path gambar Anda
+                  'assets/images/me.jpg'), // Ganti dengan path gambar Anda
             ),
             SizedBox(height: 30), // Spasi antara gambar dan teks
             // Nama pengguna
